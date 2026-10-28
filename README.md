@@ -1,4 +1,4 @@
-# MotorControlApp
+# Motor Control
 Sistema multiplataforma para la gestión de talleres mecánicos desarrollado con .NET 8.
  
 MotorControl permite administrar clientes, vehículos, órdenes de servicio, personal, cuentas por cobrar y operaciones multi-sucursal desde una aplicación moderna desarrollada con .NET MAUI Blazor Hybrid y ASP.NET Core Web API.
@@ -38,15 +38,15 @@ MotorControl está construido utilizando una arquitectura desacoplada compuesta 
 
 ## Módulos del programa
 
-• Recepción de Vehículos |  Registro de Clientes
+* Recepción de Vehículos |  Registro de Clientes
 
-• Panel de Mecánicos
+* Panel de Mecánicos
 
-• Administración
+* Administración
 
-• Generación de Nota del Cliente
+* Generación de Nota del Cliente
 
-• Ajustes del Sistema
+* Ajustes del Sistema
 
 ### Menú Principal
 <img width="1438" height="860" alt="image" src="https://github.com/user-attachments/assets/7bf98a7e-1c5f-4074-b5b0-b60943426d4f" />
