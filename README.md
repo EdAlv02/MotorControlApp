@@ -1,10 +1,40 @@
 # MotorControlApp
- Sistema para gestión de Taller Mecánico desarrollado con:
-* .NET 8
-* Blazor Hybrid (MAUI)
+Sistema multiplataforma para la gestión de talleres mecánicos desarrollado con .NET 8.
+ 
+MotorControl permite administrar clientes, vehículos, órdenes de servicio, personal, cuentas por cobrar y operaciones multi-sucursal desde una aplicación moderna desarrollada con .NET MAUI Blazor Hybrid y ASP.NET Core Web API.
+
+## Arquitectura
+MotorControl está construido utilizando una arquitectura desacoplada compuesta por:
+
+* Aplicación MAUI Blazor Hybrid
 * ASP.NET Core Web API
+* Biblioteca compartida de dominio
 * SQL Server
 * Entity Framework Core
+
+## Características Principales
+
+* Gestión de clientes
+
+* Gestión de vehículos
+
+* Órdenes de trabajo
+
+* Recepción de vehículos
+
+* Seguimiento de reparaciones
+
+* Generación de notas y comprobantes
+
+* Gestión de mecánicos
+
+* Administración de usuarios
+
+* Control por sucursal
+
+* Cuentas por cobrar
+
+* Reportes operativos
 
 ## Módulos del programa
 
